@@ -1,211 +1,30 @@
 {
-  "anis": [
+  "contacts": [
     {
-      "ANI": "6364853824",
-      "Route": "Close",
-      "Description": "BPeyton Verizon",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.70",
-      "Message": "Go to brad Peyton dot com, slash, contact ",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "777119001570",
+      "phone": "9255553883",
+      "tier": "Gold",
+      "email": "john@mail.com",
+      "name": "John Doe",
+      "id": 1
+    },
+    {
+      "phone": "9255553884",
+      "tier": "Silver",
+      "email": "jane@mail.com",
+      "name": "Jane Doe",
       "id": 2
-    },
-    {
-      "ANI": "5125270083",
-      "Route": "Close",
-      "Description": "BPeyton",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "We're currently closed for training.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "777119001570",
-      "id": 3
-    },
-    {
-      "ANI": "6606466409",
-      "Route": "Skill",
-      "Description": "BPeyton 3CX Callcentric",
-      "Tier": "Silver",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "No one home...",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 6
-    },
-    {
-      "ANI": "7853176096",
-      "Route": "Skill",
-      "Description": "BPeyton Google Voice",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "Closed message.",
-      "Survey": "true",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 7
-    },
-    {
-      "ANI": "6362329633",
-      "Route": "Agent",
-      "Description": "BPeyton 3CX Nuso",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "Closed because football is on tonight.",
-      "Survey": "true",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "777119001568",
-      "id": 8
-    },
-    {
-      "ANI": "6364853824",
-      "Route": "Agent",
-      "Description": "BPeyton Verizon",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "",
-      "Objective": "0.75",
-      "Message": "Closed because football is on tonight.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 9
-    },
-    {
-      "ANI": "5149984791",
-      "Route": "Close",
-      "Description": "Nic - Traffic Tech",
-      "Tier": "Silver",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "Traffic Tech is currently closed.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 10
-    },
-    {
-      "ANI": "5148761591",
-      "Route": "Close",
-      "Description": "Nic - Traffic Tech",
-      "Tier": "Silver",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "Traffic Tech is currently closed.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 11
-    },
-    {
-      "ANI": "5149954987",
-      "Route": "Close",
-      "Description": "Jeff - Traffic Tech",
-      "Tier": "Silver",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.75",
-      "Message": "Traffic Tech is currently closed.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "",
-      "id": 12
-    },
-    {
-      "ANI": "5132563581",
-      "Route": "IVA",
-      "Description": "Brad Loomis",
-      "Tier": "Gold",
-      "Agent": "bpeyton@blueruby.info",
-      "Skill": "BPeyton_Queue",
-      "Overflow": "BPeyton_Order",
-      "Forward": "6606461121",
-      "Objective": "0.70",
-      "Message": "Closed for the weekend.",
-      "Survey": "false",
-      "W2C": "BPeyton_List_W2C",
-      "Username": "BPeyton",
-      "IISN": "777119001570",
-      "id": 13
-    }
-  ],
-  "posts": [
-    {
-      "id": "1",
-      "title": "a title",
-      "views": 100
-    },
-    {
-      "id": "2",
-      "title": "another title",
-      "views": 200
-    },
-    {
-      "title": "Guardians Vol 2",
-      "views": 1005,
-      "id": "xz0f1SU"
-    },
-    {
-      "title": "Guardians Vol 1",
-      "views": 1005,
-      "id": "jwaRwPX"
     }
   ],
   "comments": [
     {
       "id": "1",
-      "text": "a comment about post 1",
-      "postId": "1"
+      "text": "A note about John.",
+      "contactId": "1"
     },
     {
       "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
+      "text": "A note about Jane.",
+      "contactId": "2"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
