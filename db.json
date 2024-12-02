@@ -5,6 +5,7 @@
       "tier": "Gold",
       "email": "john@mail.com",
       "name": "John Doe",
+      "address": "1001 Main St, Kansas City, MO 64101",
       "id": 1
     },
     {
@@ -12,6 +13,7 @@
       "tier": "Silver",
       "email": "jane@mail.com",
       "name": "Jane Doe",
+      "address": "1001 Main St, Kansas City, MO 64101",
       "id": 2
     }
   ],
