@@ -12,20 +12,20 @@
     },
     {
       "phone": "7853176096",
-      "name": "Steve Minnick",
-      "tier": "Gold",
+      "name": "Paul Schwartz",
+      "tier": "Bronze",
       "status": "Past Due",
-      "minimum": "$103.05",
+      "minimum": "$115.46",
       "due": "monthly on the 3rd",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 2
     },
     {
       "phone": "5125270083",
-      "name": "Steve Minnick",
-      "tier": "Gold",
-      "status": "Past Due",
-      "minimum": "$103.05",
+      "name": "Doug Turner",
+      "tier": "Silver",
+      "status": "Current",
+      "minimum": "$133.44",
       "due": "monthly on the 3rd",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 3
@@ -34,12 +34,12 @@
   "comments": [
     {
       "id": "1",
-      "text": "A note about John.",
+      "text": "A note about Steve.",
       "contactId": "1"
     },
     {
       "id": "2",
-      "text": "A note about Jane.",
+      "text": "A note about Doug.",
       "contactId": "2"
     }
   ]
