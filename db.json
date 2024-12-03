@@ -1,20 +1,31 @@
 {
   "contacts": [
     {
-      "phone": "9255553883",
+      "phone": "6364853828",
+      "name": "Steve Minnick",
       "tier": "Gold",
-      "email": "john@mail.com",
-      "name": "John Doe",
+      "status": "Past Due",
+      "minimum": "$103.05",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 1
     },
     {
-      "phone": "9255553884",
-      "tier": "Silver",
-      "email": "jane@mail.com",
-      "name": "Jane Doe",
+      "phone": "7853176096",
+      "name": "Steve Minnick",
+      "tier": "Gold",
+      "status": "Past Due",
+      "minimum": "$103.05",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 2
+    },
+    {
+      "phone": "5125270083",
+      "name": "Steve Minnick",
+      "tier": "Gold",
+      "status": "Past Due",
+      "minimum": "$103.05",
+      "address": "1001 Main St, Kansas City, MO 64101",
+      "id": 3
     }
   ],
   "comments": [
