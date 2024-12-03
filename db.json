@@ -6,6 +6,7 @@
       "tier": "Gold",
       "status": "Past Due",
       "minimum": "$103.05",
+      "due": "monthly on the 3rd",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 1
     },
@@ -15,6 +16,7 @@
       "tier": "Gold",
       "status": "Past Due",
       "minimum": "$103.05",
+      "due": "monthly on the 3rd",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 2
     },
@@ -24,6 +26,7 @@
       "tier": "Gold",
       "status": "Past Due",
       "minimum": "$103.05",
+      "due": "monthly on the 3rd",
       "address": "1001 Main St, Kansas City, MO 64101",
       "id": 3
     }
